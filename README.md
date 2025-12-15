@@ -5,7 +5,8 @@
 Датасеты:
 
 https://www.kaggle.com/datasets/uciml/default-of-credit-card-clients-dataset 	
-Бинарная: будет ли дефолт по кредитной карте? (08.12)	
+Бинарная: будет ли дефолт по кредитной карте
 
 https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set 	
-Предсказать концентрацию CO, NO₂, benzene и других загрязнителей на основе метеоданных и сенсорных показаний. (08.12)
+Предсказать концентрацию CO, NO₂, benzene и других загрязнителей на основе метеоданных и сенсорных показаний
+
